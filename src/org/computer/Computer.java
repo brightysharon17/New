@@ -2,7 +2,7 @@ package org.computer;
 
 public class Computer {
 	public void computerModel() {
-	System.out.println("asasa");
+	System.out.println("hp");
 
 	}
 
